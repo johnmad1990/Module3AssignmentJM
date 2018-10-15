@@ -1,0 +1,24 @@
+{
+  "name": "Introduction-to-NodeJS-Module3-Lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damiyan83/Introduction-to-NodeJS-Module3-Lab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/damiyan83/Introduction-to-NodeJS-Module3-Lab/issues"
+  },
+  "homepage": "https://github.com/damiyan83/Introduction-to-NodeJS-Module3-Lab#readme",
+  "dependencies": {
+    "async": "^2.6.1",
+    "mongodb": "3.1.8"
+  }
+}
